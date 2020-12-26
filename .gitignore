@@ -1,0 +1,10 @@
+*.log
+*.lock
+node_modules
+.idea
+
+#
+.autoenv.d
+
+#
+dist
